@@ -1,6 +1,8 @@
 # Handwritten-Digit-Recognizer 
 Identifying handwritten digit from an image.
 
+I have used Keras in this notebook.
+ 
 Downloading data :-
 You can download the data used in this notebook from here : https://www.kaggle.com/c/digit-recognizer/data
 
